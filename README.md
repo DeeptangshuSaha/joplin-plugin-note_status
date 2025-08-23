@@ -61,3 +61,6 @@ Contributions are welcome! Fork the repo and submit a pull request.
 
 ### [1.0.1] - 2025-08-23
 - Polishing files for proper publish
+
+### [1.0.2] - 2025-08-23
+- Updating the README
