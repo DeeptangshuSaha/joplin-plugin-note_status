@@ -1,0 +1,13 @@
+*.md
+!README.md
+/*.jpl
+/api
+/src
+/dist
+/icons
+tsconfig.json
+webpack.config.js
+/.idea
+/node_modules
+package-lock.json
+plugin.config.json
