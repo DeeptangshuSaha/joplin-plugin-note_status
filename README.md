@@ -29,7 +29,9 @@ You can use this Plugin to get the Inkdrop like status functionality for your no
 ### Toolbar Button & Dialog
 Click the toolbar button
 ![Status ToolBar Button](./icons/toolbar_button.png)
+
  to open the dialog and select a status.
+
 ![Status Dialog](./icons/status_picker_dialog.png)  
 
 ### Inline Badge
