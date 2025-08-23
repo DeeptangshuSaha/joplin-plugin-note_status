@@ -1,6 +1,5 @@
 api/
 node_modules/
-icons/
 publish/
 .idea/
 plugin.config.json
