@@ -1,0 +1,10 @@
+api/
+node_modules/
+icons/
+publish/
+.idea/
+plugin.config.json
+package-lock.json
+*.log
+GENERATOR_DOC.md
+cmd.txt
