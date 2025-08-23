@@ -4,7 +4,6 @@
 /api
 /src
 /dist
-/icons
 tsconfig.json
 webpack.config.js
 /.idea

@@ -64,3 +64,6 @@ Contributions are welcome! Fork the repo and submit a pull request.
 
 ### [1.0.2] - 2025-08-23
 - Updating the README
+
+### [1.0.3] - 2025-08-23
+- Fixed the Broken README in npmjs
