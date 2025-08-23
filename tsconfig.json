@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"module": "commonjs",
+		"target": "es2017",
+		"jsx": "react",
+		"allowJs": true,
+		"baseUrl": ".",
+		"types": ["node", "sqlite3"]
+	}
+}
