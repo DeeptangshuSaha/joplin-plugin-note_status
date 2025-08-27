@@ -2,6 +2,7 @@ api/
 node_modules/
 publish/
 .idea/
+icons/*.svg
 plugin.config.json
 package-lock.json
 *.log
